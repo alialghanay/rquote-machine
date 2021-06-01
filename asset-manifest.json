@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rquote-machine/static/css/main.49467708.chunk.css",
+    "main.js": "/rquote-machine/static/js/main.9729e2bb.chunk.js",
+    "main.js.map": "/rquote-machine/static/js/main.9729e2bb.chunk.js.map",
+    "runtime-main.js": "/rquote-machine/static/js/runtime-main.f6edc5f6.js",
+    "runtime-main.js.map": "/rquote-machine/static/js/runtime-main.f6edc5f6.js.map",
+    "static/js/2.84f89c50.chunk.js": "/rquote-machine/static/js/2.84f89c50.chunk.js",
+    "static/js/2.84f89c50.chunk.js.map": "/rquote-machine/static/js/2.84f89c50.chunk.js.map",
+    "static/js/3.519ed96d.chunk.js": "/rquote-machine/static/js/3.519ed96d.chunk.js",
+    "static/js/3.519ed96d.chunk.js.map": "/rquote-machine/static/js/3.519ed96d.chunk.js.map",
+    "index.html": "/rquote-machine/index.html",
+    "static/css/main.49467708.chunk.css.map": "/rquote-machine/static/css/main.49467708.chunk.css.map",
+    "static/js/2.84f89c50.chunk.js.LICENSE.txt": "/rquote-machine/static/js/2.84f89c50.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6edc5f6.js",
+    "static/js/2.84f89c50.chunk.js",
+    "static/css/main.49467708.chunk.css",
+    "static/js/main.9729e2bb.chunk.js"
+  ]
+}
