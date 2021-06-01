@@ -1,3 +1,11 @@
+# this random qutoe machine for FreeCodeCamp.org's fornt end library certifictiion.
+
+[freecodecamp](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-random-quote-machine).
+
+# DEMO:
+
+[gh-page](https://alialghanay.github.io/build-a-random-quote-machine/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# rquote-machine
